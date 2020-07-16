@@ -8,4 +8,7 @@ Modified CSMA p-persistent with 2 time back-off sequences
 
 
 # Throughput versus offered-load result graph
+### Number of Mobiles : 50
+### Simulation Times  : 10000
+
 ![graph](https://user-images.githubusercontent.com/54461378/87699629-181e8600-c7d0-11ea-88a8-0a802f4bf048.png)
